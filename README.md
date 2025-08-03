@@ -18,15 +18,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YAHYA_dev&show_icons=true&theme=tokyonight" alt="Yahya's GitHub Stats" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
